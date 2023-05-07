@@ -1,4 +1,4 @@
-# Method Types
+# Method Types c
 
 ## Learning Goals
 
